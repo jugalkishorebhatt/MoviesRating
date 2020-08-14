@@ -1,0 +1,17 @@
+movies:
+  path: '/home/dwarika/Learning/Momenton/main/resources/movies.dat'
+  format: 'csv'
+  delimit: '::'
+
+rating:
+  path: '/home/dwarika/Learning/Momenton/main/resources/ratings.dat'
+  format: 'csv'
+  delimit: '::'
+
+user:
+  path: '/home/dwarika/Learning/Momenton/main/resources/users.dat'
+  format: 'csv'
+  delimit: '::'  
+
+output:
+  path: '/home/dwarika/Learning/Momenton/main/resources/output/'
